@@ -1,0 +1,17 @@
+.navbar {
+    background-color: rgb(12, 12, 12);
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar a{
+    margin-right: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.navbar a:last-child {
+    margin-right: 0;
+}
